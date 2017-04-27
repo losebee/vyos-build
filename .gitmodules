@@ -9,7 +9,7 @@
 	url = https://github.com/vyos/vyatta-op.git
 [submodule "packages/vyatta-cfg-system"]
 	path = packages/vyatta-cfg-system
-	url = https://github.com/vyos/vyatta-cfg-system.git
+	url = https://github.com/losebee/vyatta-cfg-system.git
 [submodule "packages/vyatta-cfg-firewall"]
 	path = packages/vyatta-cfg-firewall
 	url = https://github.com/vyos/vyatta-cfg-firewall.git
@@ -18,7 +18,7 @@
 	url = https://github.com/vyos/vyatta-op-firewall.git
 [submodule "packages/vyatta-cfg-vpn"]
 	path = packages/vyatta-cfg-vpn
-	url = https://github.com/vyos/vyatta-cfg-vpn.git
+	url = https://github.com/losebee/vyatta-cfg-vpn.git
 [submodule "packages/vyatta-op-vpn"]
 	path = packages/vyatta-op-vpn
 	url = https://github.com/vyos/vyatta-op-vpn.git
@@ -93,7 +93,7 @@
 	url = https://github.com/vyos/vyatta-wirelessmodem.git
 [submodule "packages/vyatta-wanloadbalance"]
 	path = packages/vyatta-wanloadbalance
-	url = https://github.com/vyos/vyatta-wanloadbalance.git
+	url = https://github.com/losebee/vyatta-wanloadbalance.git
 [submodule "packages/vyatta-netflow"]
 	path = packages/vyatta-netflow
 	url = https://github.com/vyos/vyatta-netflow.git
